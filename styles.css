@@ -84,9 +84,10 @@ color: white
 .cta-button {
     background: #d3242a;
     color: white;
-    padding: 10px 40px;
+    padding: 20px 20px    ;
     text-decoration: none;
     border-radius: 5px;
+    text-align: center;
 }
 
 img{
