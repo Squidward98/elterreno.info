@@ -25,4 +25,4 @@ function prevSlide() {
 }
 
 // Auto slide (optional)
-setInterval(nextSlide, 5000);
+setInterval(nextSlide, 10000);
