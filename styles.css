@@ -229,3 +229,23 @@ nav ul li a:hover{
     align-items: center;
     gap: 1.5%;
 }
+
+@media only screen and (max-width: 1120px) {
+    /* Estilos para pantallas de tablets y smartphones */
+    .news {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        gap: 20px;
+        align-content: center;
+    }
+
+    .contact-info {
+        display: flex;
+        margin: 50px 75px;
+        flex-wrap: wrap;
+        flex-direction: column;
+        align-content: center;
+        gap: 15px;
+  }
+}
