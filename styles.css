@@ -172,7 +172,7 @@ nav ul li a:hover{
 
 .carousel-item img {
     width: 100%;
-    max-width: 500px; /* Limita el ancho de las imágenes */
+    max-width: 400px; /* Limita el ancho de las imágenes */
     height: auto;
     margin: 0 auto;
     display: block;
