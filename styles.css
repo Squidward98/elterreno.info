@@ -71,7 +71,7 @@ nav ul li a:hover{
     text-align: center;
     padding: 0;
     margin-bottom: 1%;
-    background: url('img/fondo.jpg') no-repeat center center/cover;
+    background: url('img/fondo.png') no-repeat center center/cover;
 }
 
 .info_principal {
