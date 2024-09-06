@@ -137,12 +137,16 @@ nav ul li a:hover{
 .contact-info{
     display: flex;
     gap: 2%;
-    margin: 50px 75px;
+    /* margin: 50px 75px; */
+    flex-wrap: wrap;
+    /* flex-direction: row; */
+    align-items: center;
     justify-content: center;
 }
 
 .contact-info a {
     text-decoration: none;
+    margin: 0.5%;
 }
 
 .mapa iframe {
@@ -238,8 +242,7 @@ nav ul li a:hover{
     .contact-info {
         display: flex;
         margin: 50px 75px;
-        flex-wrap: wrap;
-        flex-direction: column;
+        flex-direction: row;
         align-content: center;
         gap: 15px;
   }
